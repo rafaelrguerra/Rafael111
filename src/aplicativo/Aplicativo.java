@@ -11,6 +11,8 @@ public class Aplicativo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x = 10;
+        System.out.println("valor de x= " + x);
     }
-    
+
 }
